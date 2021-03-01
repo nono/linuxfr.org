@@ -9,6 +9,7 @@ window.langs =
   ko: "Coréen"
   da: "Danois"
   es: "Espagnol"
+  ee: "Estonien"
   fi: "Finnois"
   el: "Grec"
   it: "Italien"
@@ -20,4 +21,5 @@ window.langs =
   ru: "Russe"
   sv: "Suédois"
   xx: "!? hmmm ?!"
+  wq: "Code/binaire"
 
